@@ -1,1 +1,2 @@
-# CSGO 
+CS:GO Econ Tracking
+----------
