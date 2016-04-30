@@ -2,10 +2,13 @@
 unlink('./items/items_game_cdn.txt');
 unlink('./items/items_game_live.txt');
 unlink('./items/items_game.txt');
+unlink('./misc/csgo_english.txt');
+unlink('./misc/valve_english.txt');
 
 copy('C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\scripts\items\items_game_cdn.txt', './items/items_game_cdn.txt');
 copy('C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\scripts\items\items_game_live.txt', './items/items_game_live.txt');
 copy('C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\scripts\items\items_game.txt', './items/items_game.txt');
+copy('C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource\valve_english.txt', './misc/valve_english.txt');
 
 $file = file_get_contents('./items/items_game_cdn.txt');
 $preg = preg_match_all("/weapon_(.*?)=(.*?).png/", $file, $matches);
