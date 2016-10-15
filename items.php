@@ -22,7 +22,8 @@ rcopy('C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offen
 rcopy('C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\maps\\', './maps/', 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\maps\de_*.txt');
 rcopy('C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\\', './misc/', 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\game*.txt');
 
-$s = json_decode(fetch('https://api.steampowered.com/IEconItems_730/GetSchemaURL/v2/?key=KEY&format=json'), true);
+$key = file_get_contents('./key.txt');
+$s = json_decode(fetch('https://api.steampowered.com/IEconItems_730/GetSchemaURL/v2/?key=' . $key . '&format=json'), true);
 $u = fetch($s['result']['items_game_url']);
 $myfile = fopen("./items/schema_730.txt", "w") or die("Unable to open file!");
 fwrite($myfile, $u);
