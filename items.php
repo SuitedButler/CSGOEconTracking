@@ -22,6 +22,11 @@ rcopy('C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offen
 rcopy('C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\maps\\', './maps/', 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\maps\de_*.txt');
 rcopy('C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\\', './misc/', 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\game*.txt');
 
+$s = json_decode(fetch('https://api.steampowered.com/IEconItems_730/GetSchemaURL/v2/?key=KEY&format=json'), true);
+$u = fetch($s['result']['items_game_url']);
+$myfile = fopen("./items/schema_730.txt", "w") or die("Unable to open file!");
+fwrite($myfile, $u);
+fclose($myfile);
 
 $file = file_get_contents('./items/items_game_cdn.txt');
 $preg = preg_match_all("/weapon_(.*?)=(.*?).png/", $file, $matches);
@@ -36,20 +41,11 @@ for ($i = 0; $i < count($matches[2]); $i++) {
 	fclose($fp);
 }
 
-$s = json_decode(fetch('https://api.steampowered.com/IEconItems_730/GetSchemaURL/v2/?key=KEY&format=json'), true);
-$u = fetch($s['result']['items_game_url']);
-$myfile = fopen("./items/schema_730.txt", "w") or die("Unable to open file!");
-fwrite($myfile, $u);
-fclose($myfile);
-
 function fetch($url) {
 	$ch = curl_init();
 	curl_setopt($ch, CURLOPT_URL, $url);
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-	// Set so curl_exec returns the result instead of outputting it.
 	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-	
-	// Get the response and close the channel.
 	$response = curl_exec($ch);
 	curl_close($ch);
 	return $response;
