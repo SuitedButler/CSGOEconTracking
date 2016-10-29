@@ -4,7 +4,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\affirmative01.wav"
+		"wave"		"+player\vo\pirate\affirmative01.wav"
 }
 
 "pirate.affirmative02"
@@ -12,7 +12,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\affirmative02.wav"
+		"wave"		"+player\vo\pirate\affirmative02.wav"
 }
 
 "pirate.agree01"
@@ -20,7 +20,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\agree01.wav"
+		"wave"		"+player\vo\pirate\agree01.wav"
 }
 
 "pirate.agree02"
@@ -28,7 +28,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\agree02.wav"
+		"wave"		"+player\vo\pirate\agree02.wav"
 }
 
 "pirate.agree03"
@@ -36,7 +36,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\agree03.wav"
+		"wave"		"+player\vo\pirate\agree03.wav"
 }
 
 "pirate.agree04"
@@ -44,7 +44,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\agree04.wav"
+		"wave"		"+player\vo\pirate\agree04.wav"
 }
 
 "pirate.agree05"
@@ -52,7 +52,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\agree05.wav"
+		"wave"		"+player\vo\pirate\agree05.wav"
 }
 
 "pirate.agree06"
@@ -60,7 +60,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\agree06.wav"
+		"wave"		"+player\vo\pirate\agree06.wav"
 }
 
 "pirate.agree07"
@@ -68,7 +68,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\agree07.wav"
+		"wave"		"+player\vo\pirate\agree07.wav"
 }
 
 "pirate.blinded01"
@@ -76,7 +76,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\blinded01.wav"
+		"wave"		"+player\vo\pirate\blinded01.wav"
 }
 
 "pirate.blinded02"
@@ -84,7 +84,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\blinded02.wav"
+		"wave"		"+player\vo\pirate\blinded02.wav"
 }
 
 "pirate.blinded04"
@@ -92,7 +92,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\blinded04.wav"
+		"wave"		"+player\vo\pirate\blinded04.wav"
 }
 
 "pirate.blinded05"
@@ -100,7 +100,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\blinded05.wav"
+		"wave"		"+player\vo\pirate\blinded05.wav"
 }
 
 "pirate.blinded06"
@@ -108,7 +108,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\blinded06.wav"
+		"wave"		"+player\vo\pirate\blinded06.wav"
 }
 
 "pirate.bombtickingdown01"
@@ -116,7 +116,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\bombtickingdown01.wav"
+		"wave"		"+player\vo\pirate\bombtickingdown01.wav"
 }
 
 "pirate.bombtickingdown02"
@@ -124,7 +124,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\bombtickingdown02.wav"
+		"wave"		"+player\vo\pirate\bombtickingdown02.wav"
 }
 
 "pirate.bombtickingdown03"
@@ -132,7 +132,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\bombtickingdown03.wav"
+		"wave"		"+player\vo\pirate\bombtickingdown03.wav"
 }
 
 "pirate.bombtickingdown04"
@@ -140,7 +140,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\bombtickingdown04.wav"
+		"wave"		"+player\vo\pirate\bombtickingdown04.wav"
 }
 
 "pirate.bombtickingdown05"
@@ -148,7 +148,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\bombtickingdown05.wav"
+		"wave"		"+player\vo\pirate\bombtickingdown05.wav"
 }
 
 "pirate.bombtickingdown06"
@@ -156,7 +156,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\bombtickingdown06.wav"
+		"wave"		"+player\vo\pirate\bombtickingdown06.wav"
 }
 
 "pirate.clear01"
@@ -164,7 +164,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\clear01.wav"
+		"wave"		"+player\vo\pirate\clear01.wav"
 }
 
 "pirate.clear02"
@@ -172,7 +172,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\clear02.wav"
+		"wave"		"+player\vo\pirate\clear02.wav"
 }
 
 "pirate.clear03"
@@ -180,7 +180,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\clear03.wav"
+		"wave"		"+player\vo\pirate\clear03.wav"
 }
 
 "pirate.clearedarea01"
@@ -188,7 +188,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\clearedarea01.wav"
+		"wave"		"+player\vo\pirate\clearedarea01.wav"
 }
 
 "pirate.clearedarea02"
@@ -196,7 +196,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\clearedarea02.wav"
+		"wave"		"+player\vo\pirate\clearedarea02.wav"
 }
 
 "pirate.clearedarea03"
@@ -204,7 +204,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\clearedarea03.wav"
+		"wave"		"+player\vo\pirate\clearedarea03.wav"
 }
 
 "pirate.clearedarea04"
@@ -212,7 +212,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\clearedarea04.wav"
+		"wave"		"+player\vo\pirate\clearedarea04.wav"
 }
 
 "pirate.coveringfriend01"
@@ -220,7 +220,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\coveringfriend01.wav"
+		"wave"		"+player\vo\pirate\coveringfriend01.wav"
 }
 
 "pirate.coveringfriend03"
@@ -228,7 +228,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\coveringfriend03.wav"
+		"wave"		"+player\vo\pirate\coveringfriend03.wav"
 }
 
 "pirate.coveringfriend04"
@@ -236,7 +236,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\coveringfriend04.wav"
+		"wave"		"+player\vo\pirate\coveringfriend04.wav"
 }
 
 "pirate.coverme01"
@@ -244,7 +244,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\coverme01.wav"
+		"wave"		"+player\vo\pirate\coverme01.wav"
 }
 
 "pirate.coverme02"
@@ -252,7 +252,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\coverme02.wav"
+		"wave"		"+player\vo\pirate\coverme02.wav"
 }
 
 "pirate.coverme03"
@@ -260,7 +260,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\coverme03.wav"
+		"wave"		"+player\vo\pirate\coverme03.wav"
 }
 
 "pirate.defendingbombsitea01"
@@ -268,7 +268,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\defendingbombsitea01.wav"
+		"wave"		"+player\vo\pirate\defendingbombsitea01.wav"
 }
 
 "pirate.defendingbombsitea02"
@@ -276,7 +276,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\defendingbombsitea02.wav"
+		"wave"		"+player\vo\pirate\defendingbombsitea02.wav"
 }
 
 "pirate.defendingbombsitea03"
@@ -284,7 +284,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\defendingbombsitea03.wav"
+		"wave"		"+player\vo\pirate\defendingbombsitea03.wav"
 }
 
 "pirate.disagree01"
@@ -292,7 +292,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\disagree01.wav"
+		"wave"		"+player\vo\pirate\disagree01.wav"
 }
 
 "pirate.disagree02"
@@ -300,7 +300,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\disagree02.wav"
+		"wave"		"+player\vo\pirate\disagree02.wav"
 }
 
 "pirate.disagree03"
@@ -308,7 +308,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\disagree03.wav"
+		"wave"		"+player\vo\pirate\disagree03.wav"
 }
 
 "pirate.disagree04"
@@ -316,7 +316,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\disagree04.wav"
+		"wave"		"+player\vo\pirate\disagree04.wav"
 }
 
 "pirate.enemydown01"
@@ -324,7 +324,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\enemydown01.wav"
+		"wave"		"+player\vo\pirate\enemydown01.wav"
 }
 
 "pirate.enemydown02"
@@ -332,7 +332,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\enemydown02.wav"
+		"wave"		"+player\vo\pirate\enemydown02.wav"
 }
 
 "pirate.enemydown03"
@@ -340,7 +340,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\enemydown03.wav"
+		"wave"		"+player\vo\pirate\enemydown03.wav"
 }
 
 "pirate.enemydown04"
@@ -348,7 +348,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\enemydown04.wav"
+		"wave"		"+player\vo\pirate\enemydown04.wav"
 }
 
 "pirate.enemydown05"
@@ -356,7 +356,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\enemydown05.wav"
+		"wave"		"+player\vo\pirate\enemydown05.wav"
 }
 
 "pirate.enemydown06"
@@ -364,7 +364,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\enemydown06.wav"
+		"wave"		"+player\vo\pirate\enemydown06.wav"
 }
 
 "pirate.enemydown07"
@@ -372,7 +372,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\enemydown07.wav"
+		"wave"		"+player\vo\pirate\enemydown07.wav"
 }
 
 "pirate.enemydown08"
@@ -380,7 +380,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\enemydown08.wav"
+		"wave"		"+player\vo\pirate\enemydown08.wav"
 }
 
 "pirate.followingfriend01"
@@ -388,7 +388,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\followingfriend01.wav"
+		"wave"		"+player\vo\pirate\followingfriend01.wav"
 }
 
 "pirate.followingfriend02"
@@ -396,7 +396,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\followingfriend02.wav"
+		"wave"		"+player\vo\pirate\followingfriend02.wav"
 }
 
 "pirate.followingfriend03"
@@ -404,7 +404,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\followingfriend03.wav"
+		"wave"		"+player\vo\pirate\followingfriend03.wav"
 }
 
 "pirate.followingfriend04"
@@ -412,7 +412,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\followingfriend04.wav"
+		"wave"		"+player\vo\pirate\followingfriend04.wav"
 }
 
 "pirate.followingfriend05"
@@ -420,7 +420,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\followingfriend05.wav"
+		"wave"		"+player\vo\pirate\followingfriend05.wav"
 }
 
 "pirate.followingfriend06"
@@ -428,7 +428,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\followingfriend06.wav"
+		"wave"		"+player\vo\pirate\followingfriend06.wav"
 }
 
 "pirate.friendlyfire01"
@@ -436,7 +436,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\friendlyfire01.wav"
+		"wave"		"+player\vo\pirate\friendlyfire01.wav"
 }
 
 "pirate.friendlyfire02"
@@ -444,7 +444,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\friendlyfire02.wav"
+		"wave"		"+player\vo\pirate\friendlyfire02.wav"
 }
 
 "pirate.friendlyfire03"
@@ -452,7 +452,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\friendlyfire03.wav"
+		"wave"		"+player\vo\pirate\friendlyfire03.wav"
 }
 
 "pirate.friendlyfire04"
@@ -460,7 +460,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\friendlyfire04.wav"
+		"wave"		"+player\vo\pirate\friendlyfire04.wav"
 }
 
 "pirate.friendlyfire05"
@@ -468,7 +468,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\friendlyfire05.wav"
+		"wave"		"+player\vo\pirate\friendlyfire05.wav"
 }
 
 "pirate.friendlyfire06"
@@ -476,7 +476,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\friendlyfire06.wav"
+		"wave"		"+player\vo\pirate\friendlyfire06.wav"
 }
 
 "pirate.friendlyfire07"
@@ -484,7 +484,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\friendlyfire07.wav"
+		"wave"		"+player\vo\pirate\friendlyfire07.wav"
 }
 
 "pirate.friendlyfire08"
@@ -492,7 +492,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\friendlyfire08.wav"
+		"wave"		"+player\vo\pirate\friendlyfire08.wav"
 }
 
 "pirate.friendlyfire09"
@@ -500,7 +500,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\friendlyfire09.wav"
+		"wave"		"+player\vo\pirate\friendlyfire09.wav"
 }
 
 "pirate.goingtodefendbombsite01"
@@ -508,7 +508,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\goingtodefendbombsite01.wav"
+		"wave"		"+player\vo\pirate\goingtodefendbombsite01.wav"
 }
 
 "pirate.goingtodefendbombsite02"
@@ -516,7 +516,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\goingtodefendbombsite02.wav"
+		"wave"		"+player\vo\pirate\goingtodefendbombsite02.wav"
 }
 
 "pirate.goingtodefendbombsite03"
@@ -524,7 +524,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\goingtodefendbombsite03.wav"
+		"wave"		"+player\vo\pirate\goingtodefendbombsite03.wav"
 }
 
 "pirate.goingtodefendbombsite04"
@@ -532,7 +532,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\goingtodefendbombsite04.wav"
+		"wave"		"+player\vo\pirate\goingtodefendbombsite04.wav"
 }
 
 "pirate.goingtoplantbomb01"
@@ -540,7 +540,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\goingtoplantbomb01.wav"
+		"wave"		"+player\vo\pirate\goingtoplantbomb01.wav"
 }
 
 "pirate.goingtoplantbomb02"
@@ -548,7 +548,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\goingtoplantbomb02.wav"
+		"wave"		"+player\vo\pirate\goingtoplantbomb02.wav"
 }
 
 "pirate.goingtoplantbomb03"
@@ -556,7 +556,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\goingtoplantbomb03.wav"
+		"wave"		"+player\vo\pirate\goingtoplantbomb03.wav"
 }
 
 "pirate.goingtoplantbomba01"
@@ -564,7 +564,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\goingtoplantbomba01.wav"
+		"wave"		"+player\vo\pirate\goingtoplantbomba01.wav"
 }
 
 "pirate.goingtoplantbomba02"
@@ -572,7 +572,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\goingtoplantbomba02.wav"
+		"wave"		"+player\vo\pirate\goingtoplantbomba02.wav"
 }
 
 "pirate.goingtoplantbomba03"
@@ -580,7 +580,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\goingtoplantbomba03.wav"
+		"wave"		"+player\vo\pirate\goingtoplantbomba03.wav"
 }
 
 "pirate.heardnoise01"
@@ -588,7 +588,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\heardnoise01.wav"
+		"wave"		"+player\vo\pirate\heardnoise01.wav"
 }
 
 "pirate.heardnoise02"
@@ -596,7 +596,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\heardnoise02.wav"
+		"wave"		"+player\vo\pirate\heardnoise02.wav"
 }
 
 "pirate.heardnoise03"
@@ -604,7 +604,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\heardnoise03.wav"
+		"wave"		"+player\vo\pirate\heardnoise03.wav"
 }
 
 "pirate.heardnoise04"
@@ -612,7 +612,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\heardnoise04.wav"
+		"wave"		"+player\vo\pirate\heardnoise04.wav"
 }
 
 "pirate.help01"
@@ -620,7 +620,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\help01.wav"
+		"wave"		"+player\vo\pirate\help01.wav"
 }
 
 "pirate.help02"
@@ -628,7 +628,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\help02.wav"
+		"wave"		"+player\vo\pirate\help02.wav"
 }
 
 "pirate.help03"
@@ -636,7 +636,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\help03.wav"
+		"wave"		"+player\vo\pirate\help03.wav"
 }
 
 "pirate.help04"
@@ -644,7 +644,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\help04.wav"
+		"wave"		"+player\vo\pirate\help04.wav"
 }
 
 "pirate.help05"
@@ -652,7 +652,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\help05.wav"
+		"wave"		"+player\vo\pirate\help05.wav"
 }
 
 "pirate.incombat01"
@@ -660,7 +660,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\incombat01.wav"
+		"wave"		"+player\vo\pirate\incombat01.wav"
 }
 
 "pirate.incombat02"
@@ -668,7 +668,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\incombat02.wav"
+		"wave"		"+player\vo\pirate\incombat02.wav"
 }
 
 "pirate.incombat03"
@@ -676,7 +676,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\incombat03.wav"
+		"wave"		"+player\vo\pirate\incombat03.wav"
 }
 
 "pirate.incombat04"
@@ -684,7 +684,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\incombat04.wav"
+		"wave"		"+player\vo\pirate\incombat04.wav"
 }
 
 "pirate.incombat05"
@@ -692,7 +692,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\incombat05.wav"
+		"wave"		"+player\vo\pirate\incombat05.wav"
 }
 
 "pirate.incombat06"
@@ -700,7 +700,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\incombat06.wav"
+		"wave"		"+player\vo\pirate\incombat06.wav"
 }
 
 "pirate.incombat07"
@@ -708,7 +708,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\incombat07.wav"
+		"wave"		"+player\vo\pirate\incombat07.wav"
 }
 
 "pirate.incombat08"
@@ -716,7 +716,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\incombat08.wav"
+		"wave"		"+player\vo\pirate\incombat08.wav"
 }
 
 "pirate.inposition01"
@@ -724,7 +724,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\inposition01.wav"
+		"wave"		"+player\vo\pirate\inposition01.wav"
 }
 
 "pirate.inposition02"
@@ -732,7 +732,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\inposition02.wav"
+		"wave"		"+player\vo\pirate\inposition02.wav"
 }
 
 "pirate.inposition03"
@@ -740,7 +740,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\inposition03.wav"
+		"wave"		"+player\vo\pirate\inposition03.wav"
 }
 
 "pirate.killedfriend01"
@@ -748,7 +748,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\killedfriend01.wav"
+		"wave"		"+player\vo\pirate\killedfriend01.wav"
 }
 
 "pirate.killedfriend02"
@@ -756,7 +756,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\killedfriend02.wav"
+		"wave"		"+player\vo\pirate\killedfriend02.wav"
 }
 
 "pirate.killedfriend03"
@@ -764,7 +764,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\killedfriend03.wav"
+		"wave"		"+player\vo\pirate\killedfriend03.wav"
 }
 
 "pirate.killedfriend04"
@@ -772,7 +772,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\killedfriend04.wav"
+		"wave"		"+player\vo\pirate\killedfriend04.wav"
 }
 
 "pirate.killedfriend05"
@@ -780,7 +780,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\killedfriend05.wav"
+		"wave"		"+player\vo\pirate\killedfriend05.wav"
 }
 
 "pirate.lastmanstanding01"
@@ -788,7 +788,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\lastmanstanding01.wav"
+		"wave"		"+player\vo\pirate\lastmanstanding01.wav"
 }
 
 "pirate.lastmanstanding02"
@@ -796,7 +796,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\lastmanstanding02.wav"
+		"wave"		"+player\vo\pirate\lastmanstanding02.wav"
 }
 
 "pirate.lastmanstanding03"
@@ -804,7 +804,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\lastmanstanding03.wav"
+		"wave"		"+player\vo\pirate\lastmanstanding03.wav"
 }
 
 "pirate.lastmanstanding04"
@@ -812,7 +812,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\lastmanstanding04.wav"
+		"wave"		"+player\vo\pirate\lastmanstanding04.wav"
 }
 
 "pirate.lastmanstanding05"
@@ -820,7 +820,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\lastmanstanding05.wav"
+		"wave"		"+player\vo\pirate\lastmanstanding05.wav"
 }
 
 "pirate.lastmanstanding06"
@@ -828,7 +828,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\lastmanstanding06.wav"
+		"wave"		"+player\vo\pirate\lastmanstanding06.wav"
 }
 
 "pirate.lastmanstanding07"
@@ -836,7 +836,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\lastmanstanding07.wav"
+		"wave"		"+player\vo\pirate\lastmanstanding07.wav"
 }
 
 "pirate.lastmanstanding08"
@@ -844,7 +844,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\lastmanstanding08.wav"
+		"wave"		"+player\vo\pirate\lastmanstanding08.wav"
 }
 
 "pirate.lostenemy01"
@@ -852,7 +852,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\lostenemy01.wav"
+		"wave"		"+player\vo\pirate\lostenemy01.wav"
 }
 
 "pirate.lostenemy02"
@@ -860,7 +860,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\lostenemy02.wav"
+		"wave"		"+player\vo\pirate\lostenemy02.wav"
 }
 
 "pirate.lostenemy03"
@@ -868,7 +868,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\lostenemy03.wav"
+		"wave"		"+player\vo\pirate\lostenemy03.wav"
 }
 
 "pirate.lostenemy04"
@@ -876,7 +876,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\lostenemy04.wav"
+		"wave"		"+player\vo\pirate\lostenemy04.wav"
 }
 
 "pirate.negative01"
@@ -884,7 +884,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\negative01.wav"
+		"wave"		"+player\vo\pirate\negative01.wav"
 }
 
 "pirate.negative02"
@@ -892,7 +892,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\negative02.wav"
+		"wave"		"+player\vo\pirate\negative02.wav"
 }
 
 "pirate.negative03"
@@ -900,7 +900,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\negative03.wav"
+		"wave"		"+player\vo\pirate\negative03.wav"
 }
 
 "pirate.negative04"
@@ -908,7 +908,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\negative04.wav"
+		"wave"		"+player\vo\pirate\negative04.wav"
 }
 
 "pirate.negativeno04"
@@ -916,7 +916,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\negativeno04.wav"
+		"wave"		"+player\vo\pirate\negativeno04.wav"
 }
 
 "pirate.negativeno05"
@@ -924,7 +924,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\negativeno05.wav"
+		"wave"		"+player\vo\pirate\negativeno05.wav"
 }
 
 "pirate.niceshot01"
@@ -932,7 +932,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\niceshot01.wav"
+		"wave"		"+player\vo\pirate\niceshot01.wav"
 }
 
 "pirate.niceshot02"
@@ -940,7 +940,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\niceshot02.wav"
+		"wave"		"+player\vo\pirate\niceshot02.wav"
 }
 
 "pirate.niceshot03"
@@ -948,7 +948,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\niceshot03.wav"
+		"wave"		"+player\vo\pirate\niceshot03.wav"
 }
 
 "pirate.niceshot04"
@@ -956,7 +956,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\niceshot04.wav"
+		"wave"		"+player\vo\pirate\niceshot04.wav"
 }
 
 "pirate.niceshot05"
@@ -964,7 +964,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\niceshot05.wav"
+		"wave"		"+player\vo\pirate\niceshot05.wav"
 }
 
 "pirate.niceshot06"
@@ -972,7 +972,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\niceshot06.wav"
+		"wave"		"+player\vo\pirate\niceshot06.wav"
 }
 
 "pirate.niceshot07"
@@ -980,7 +980,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\niceshot07.wav"
+		"wave"		"+player\vo\pirate\niceshot07.wav"
 }
 
 "pirate.niceshot08"
@@ -988,7 +988,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\niceshot08.wav"
+		"wave"		"+player\vo\pirate\niceshot08.wav"
 }
 
 "pirate.niceshot09"
@@ -996,7 +996,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\niceshot09.wav"
+		"wave"		"+player\vo\pirate\niceshot09.wav"
 }
 
 "pirate.niceshot10"
@@ -1004,7 +1004,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\niceshot10.wav"
+		"wave"		"+player\vo\pirate\niceshot10.wav"
 }
 
 "pirate.niceshot11"
@@ -1012,7 +1012,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\niceshot11.wav"
+		"wave"		"+player\vo\pirate\niceshot11.wav"
 }
 
 "pirate.niceshot12"
@@ -1020,7 +1020,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\niceshot12.wav"
+		"wave"		"+player\vo\pirate\niceshot12.wav"
 }
 
 "pirate.onarollbrag01"
@@ -1028,7 +1028,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onarollbrag01.wav"
+		"wave"		"+player\vo\pirate\onarollbrag01.wav"
 }
 
 "pirate.onarollbrag02"
@@ -1036,7 +1036,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onarollbrag02.wav"
+		"wave"		"+player\vo\pirate\onarollbrag02.wav"
 }
 
 "pirate.onarollbrag03"
@@ -1044,7 +1044,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onarollbrag03.wav"
+		"wave"		"+player\vo\pirate\onarollbrag03.wav"
 }
 
 "pirate.onarollbrag04"
@@ -1052,7 +1052,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onarollbrag04.wav"
+		"wave"		"+player\vo\pirate\onarollbrag04.wav"
 }
 
 "pirate.onarollbrag05"
@@ -1060,7 +1060,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onarollbrag05.wav"
+		"wave"		"+player\vo\pirate\onarollbrag05.wav"
 }
 
 "pirate.onarollbrag06"
@@ -1068,7 +1068,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onarollbrag06.wav"
+		"wave"		"+player\vo\pirate\onarollbrag06.wav"
 }
 
 "pirate.onarollbrag07"
@@ -1076,7 +1076,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onarollbrag07.wav"
+		"wave"		"+player\vo\pirate\onarollbrag07.wav"
 }
 
 "pirate.onarollbrag08"
@@ -1084,7 +1084,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onarollbrag08.wav"
+		"wave"		"+player\vo\pirate\onarollbrag08.wav"
 }
 
 "pirate.onarollbrag09"
@@ -1092,7 +1092,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onarollbrag09.wav"
+		"wave"		"+player\vo\pirate\onarollbrag09.wav"
 }
 
 "pirate.onarollbrag10"
@@ -1100,7 +1100,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onarollbrag10.wav"
+		"wave"		"+player\vo\pirate\onarollbrag10.wav"
 }
 
 "pirate.onarollbrag11"
@@ -1108,7 +1108,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onarollbrag11.wav"
+		"wave"		"+player\vo\pirate\onarollbrag11.wav"
 }
 
 "pirate.onarollbrag12"
@@ -1116,7 +1116,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onarollbrag12.wav"
+		"wave"		"+player\vo\pirate\onarollbrag12.wav"
 }
 
 "pirate.onarollbrag13"
@@ -1124,7 +1124,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onarollbrag13.wav"
+		"wave"		"+player\vo\pirate\onarollbrag13.wav"
 }
 
 "pirate.oneenemyleft01"
@@ -1132,7 +1132,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\oneenemyleft01.wav"
+		"wave"		"+player\vo\pirate\oneenemyleft01.wav"
 }
 
 "pirate.oneenemyleft02"
@@ -1140,7 +1140,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\oneenemyleft02.wav"
+		"wave"		"+player\vo\pirate\oneenemyleft02.wav"
 }
 
 "pirate.oneenemyleft03"
@@ -1148,7 +1148,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\oneenemyleft03.wav"
+		"wave"		"+player\vo\pirate\oneenemyleft03.wav"
 }
 
 "pirate.oneenemyleft06"
@@ -1156,7 +1156,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\oneenemyleft06.wav"
+		"wave"		"+player\vo\pirate\oneenemyleft06.wav"
 }
 
 "pirate.oneenemyleft07"
@@ -1164,7 +1164,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\oneenemyleft07.wav"
+		"wave"		"+player\vo\pirate\oneenemyleft07.wav"
 }
 
 "pirate.oneenemyleft08"
@@ -1172,7 +1172,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\oneenemyleft08.wav"
+		"wave"		"+player\vo\pirate\oneenemyleft08.wav"
 }
 
 "pirate.oneenemyleft10"
@@ -1180,7 +1180,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\oneenemyleft10.wav"
+		"wave"		"+player\vo\pirate\oneenemyleft10.wav"
 }
 
 "pirate.oneenemyleft11"
@@ -1188,7 +1188,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\oneenemyleft11.wav"
+		"wave"		"+player\vo\pirate\oneenemyleft11.wav"
 }
 
 "pirate.oneenemyleft12"
@@ -1196,7 +1196,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\oneenemyleft12.wav"
+		"wave"		"+player\vo\pirate\oneenemyleft12.wav"
 }
 
 "pirate.onmyway01"
@@ -1204,7 +1204,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onmyway01.wav"
+		"wave"		"+player\vo\pirate\onmyway01.wav"
 }
 
 "pirate.onmyway02"
@@ -1212,7 +1212,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onmyway02.wav"
+		"wave"		"+player\vo\pirate\onmyway02.wav"
 }
 
 "pirate.onmyway03"
@@ -1220,7 +1220,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onmyway03.wav"
+		"wave"		"+player\vo\pirate\onmyway03.wav"
 }
 
 "pirate.onmyway04"
@@ -1228,7 +1228,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\onmyway04.wav"
+		"wave"		"+player\vo\pirate\onmyway04.wav"
 }
 
 "pirate.peptalk02"
@@ -1236,7 +1236,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\peptalk02.wav"
+		"wave"		"+player\vo\pirate\peptalk02.wav"
 }
 
 "pirate.peptalk06"
@@ -1244,7 +1244,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\peptalk06.wav"
+		"wave"		"+player\vo\pirate\peptalk06.wav"
 }
 
 "pirate.peptalk07"
@@ -1252,7 +1252,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\peptalk07.wav"
+		"wave"		"+player\vo\pirate\peptalk07.wav"
 }
 
 "pirate.peptalk09"
@@ -1260,7 +1260,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\peptalk09.wav"
+		"wave"		"+player\vo\pirate\peptalk09.wav"
 }
 
 "pirate.pinneddown01"
@@ -1268,7 +1268,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\pinneddown01.wav"
+		"wave"		"+player\vo\pirate\pinneddown01.wav"
 }
 
 "pirate.pinneddown02"
@@ -1276,7 +1276,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\pinneddown02.wav"
+		"wave"		"+player\vo\pirate\pinneddown02.wav"
 }
 
 "pirate.pinneddown03"
@@ -1284,7 +1284,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\pinneddown03.wav"
+		"wave"		"+player\vo\pirate\pinneddown03.wav"
 }
 
 "pirate.plantingbomb01"
@@ -1292,7 +1292,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\plantingbomb01.wav"
+		"wave"		"+player\vo\pirate\plantingbomb01.wav"
 }
 
 "pirate.plantingbomb02"
@@ -1300,7 +1300,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\plantingbomb02.wav"
+		"wave"		"+player\vo\pirate\plantingbomb02.wav"
 }
 
 "pirate.plantingbomb05"
@@ -1308,7 +1308,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\plantingbomb05.wav"
+		"wave"		"+player\vo\pirate\plantingbomb05.wav"
 }
 
 "pirate.radio_enemyspotted01"
@@ -1316,7 +1316,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_enemyspotted01.wav"
+		"wave"		"+player\vo\pirate\radio_enemyspotted01.wav"
 }
 
 "pirate.radio_enemyspotted02"
@@ -1324,7 +1324,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_enemyspotted02.wav"
+		"wave"		"+player\vo\pirate\radio_enemyspotted02.wav"
 }
 
 "pirate.radio_enemyspotted03"
@@ -1332,7 +1332,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_enemyspotted03.wav"
+		"wave"		"+player\vo\pirate\radio_enemyspotted03.wav"
 }
 
 "pirate.radio_enemyspotted04"
@@ -1340,7 +1340,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_enemyspotted04.wav"
+		"wave"		"+player\vo\pirate\radio_enemyspotted04.wav"
 }
 
 "pirate.radio_enemyspotted06"
@@ -1348,7 +1348,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_enemyspotted06.wav"
+		"wave"		"+player\vo\pirate\radio_enemyspotted06.wav"
 }
 
 "pirate.radio_followme01"
@@ -1356,7 +1356,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_followme01.wav"
+		"wave"		"+player\vo\pirate\radio_followme01.wav"
 }
 
 "pirate.radio_followme02"
@@ -1364,7 +1364,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_followme02.wav"
+		"wave"		"+player\vo\pirate\radio_followme02.wav"
 }
 
 "pirate.radio_followme03"
@@ -1372,7 +1372,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_followme03.wav"
+		"wave"		"+player\vo\pirate\radio_followme03.wav"
 }
 
 "pirate.radio_followme04"
@@ -1380,7 +1380,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_followme04.wav"
+		"wave"		"+player\vo\pirate\radio_followme04.wav"
 }
 
 "pirate.radio_followme05"
@@ -1388,7 +1388,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_followme05.wav"
+		"wave"		"+player\vo\pirate\radio_followme05.wav"
 }
 
 "pirate.radio_letsgo01"
@@ -1396,7 +1396,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_letsgo01.wav"
+		"wave"		"+player\vo\pirate\radio_letsgo01.wav"
 }
 
 "pirate.radio_letsgo02"
@@ -1404,7 +1404,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_letsgo02.wav"
+		"wave"		"+player\vo\pirate\radio_letsgo02.wav"
 }
 
 "pirate.radio_letsgo03"
@@ -1412,7 +1412,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_letsgo03.wav"
+		"wave"		"+player\vo\pirate\radio_letsgo03.wav"
 }
 
 "pirate.radio_letsgo04"
@@ -1420,7 +1420,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_letsgo04.wav"
+		"wave"		"+player\vo\pirate\radio_letsgo04.wav"
 }
 
 "pirate.radio_letsgo05"
@@ -1428,7 +1428,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_letsgo05.wav"
+		"wave"		"+player\vo\pirate\radio_letsgo05.wav"
 }
 
 "pirate.radio_letsgo06"
@@ -1436,7 +1436,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_letsgo06.wav"
+		"wave"		"+player\vo\pirate\radio_letsgo06.wav"
 }
 
 "pirate.radio_letsgo07"
@@ -1444,7 +1444,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_letsgo07.wav"
+		"wave"		"+player\vo\pirate\radio_letsgo07.wav"
 }
 
 "pirate.radio_letsgo08"
@@ -1452,7 +1452,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_letsgo08.wav"
+		"wave"		"+player\vo\pirate\radio_letsgo08.wav"
 }
 
 "pirate.radio_letsgo09"
@@ -1460,7 +1460,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_letsgo09.wav"
+		"wave"		"+player\vo\pirate\radio_letsgo09.wav"
 }
 
 "pirate.radio_locknload01"
@@ -1468,7 +1468,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_locknload01.wav"
+		"wave"		"+player\vo\pirate\radio_locknload01.wav"
 }
 
 "pirate.radio_locknload02"
@@ -1476,7 +1476,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_locknload02.wav"
+		"wave"		"+player\vo\pirate\radio_locknload02.wav"
 }
 
 "pirate.radio_locknload03"
@@ -1484,7 +1484,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_locknload03.wav"
+		"wave"		"+player\vo\pirate\radio_locknload03.wav"
 }
 
 "pirate.radio_locknload04"
@@ -1492,7 +1492,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_locknload04.wav"
+		"wave"		"+player\vo\pirate\radio_locknload04.wav"
 }
 
 "pirate.radio_locknload05"
@@ -1500,7 +1500,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_locknload05.wav"
+		"wave"		"+player\vo\pirate\radio_locknload05.wav"
 }
 
 "pirate.radio_locknload06"
@@ -1508,7 +1508,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_locknload06.wav"
+		"wave"		"+player\vo\pirate\radio_locknload06.wav"
 }
 
 "pirate.radio_locknload07"
@@ -1516,7 +1516,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_locknload07.wav"
+		"wave"		"+player\vo\pirate\radio_locknload07.wav"
 }
 
 "pirate.radio_locknload08"
@@ -1524,7 +1524,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_locknload08.wav"
+		"wave"		"+player\vo\pirate\radio_locknload08.wav"
 }
 
 "pirate.radio_locknload09"
@@ -1532,7 +1532,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_locknload09.wav"
+		"wave"		"+player\vo\pirate\radio_locknload09.wav"
 }
 
 "pirate.radio_locknload10"
@@ -1540,7 +1540,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_locknload10.wav"
+		"wave"		"+player\vo\pirate\radio_locknload10.wav"
 }
 
 "pirate.radio_locknload11"
@@ -1548,7 +1548,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_locknload11.wav"
+		"wave"		"+player\vo\pirate\radio_locknload11.wav"
 }
 
 "pirate.radio_locknload12"
@@ -1556,7 +1556,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_locknload12.wav"
+		"wave"		"+player\vo\pirate\radio_locknload12.wav"
 }
 
 "pirate.radio_locknload13"
@@ -1564,7 +1564,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_locknload13.wav"
+		"wave"		"+player\vo\pirate\radio_locknload13.wav"
 }
 
 "pirate.radio_locknload14"
@@ -1572,7 +1572,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_locknload14.wav"
+		"wave"		"+player\vo\pirate\radio_locknload14.wav"
 }
 
 "pirate.radio_needbackup01"
@@ -1580,7 +1580,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_needbackup01.wav"
+		"wave"		"+player\vo\pirate\radio_needbackup01.wav"
 }
 
 "pirate.radio_needbackup02"
@@ -1588,7 +1588,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_needbackup02.wav"
+		"wave"		"+player\vo\pirate\radio_needbackup02.wav"
 }
 
 "pirate.radio_needbackup03"
@@ -1596,7 +1596,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_needbackup03.wav"
+		"wave"		"+player\vo\pirate\radio_needbackup03.wav"
 }
 
 "pirate.radio_needbackup04"
@@ -1604,7 +1604,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_needbackup04.wav"
+		"wave"		"+player\vo\pirate\radio_needbackup04.wav"
 }
 
 "pirate.radio_takingfire01"
@@ -1612,7 +1612,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_takingfire01.wav"
+		"wave"		"+player\vo\pirate\radio_takingfire01.wav"
 }
 
 "pirate.radio_takingfire02"
@@ -1620,7 +1620,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_takingfire02.wav"
+		"wave"		"+player\vo\pirate\radio_takingfire02.wav"
 }
 
 "pirate.radio_takingfire03"
@@ -1628,7 +1628,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_takingfire03.wav"
+		"wave"		"+player\vo\pirate\radio_takingfire03.wav"
 }
 
 "pirate.radio_takingfire04"
@@ -1636,7 +1636,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_takingfire04.wav"
+		"wave"		"+player\vo\pirate\radio_takingfire04.wav"
 }
 
 "pirate.radio_takingfire05"
@@ -1644,7 +1644,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_takingfire05.wav"
+		"wave"		"+player\vo\pirate\radio_takingfire05.wav"
 }
 
 "pirate.radio_takingfire06"
@@ -1652,7 +1652,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_takingfire06.wav"
+		"wave"		"+player\vo\pirate\radio_takingfire06.wav"
 }
 
 "pirate.radio_takingfire07"
@@ -1660,7 +1660,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_takingfire07.wav"
+		"wave"		"+player\vo\pirate\radio_takingfire07.wav"
 }
 
 "pirate.radio_takingfire08"
@@ -1668,7 +1668,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radio_takingfire08.wav"
+		"wave"		"+player\vo\pirate\radio_takingfire08.wav"
 }
 
 "pirate.radiobotendclean01"
@@ -1676,7 +1676,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotendclean01.wav"
+		"wave"		"+player\vo\pirate\radiobotendclean01.wav"
 }
 
 "pirate.radiobotendclean02"
@@ -1684,7 +1684,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotendclean02.wav"
+		"wave"		"+player\vo\pirate\radiobotendclean02.wav"
 }
 
 "pirate.radiobotendclean03"
@@ -1692,7 +1692,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotendclean03.wav"
+		"wave"		"+player\vo\pirate\radiobotendclean03.wav"
 }
 
 "pirate.radiobotendclean04"
@@ -1700,7 +1700,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotendclean04.wav"
+		"wave"		"+player\vo\pirate\radiobotendclean04.wav"
 }
 
 "pirate.radiobotendclean05"
@@ -1708,7 +1708,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotendclean05.wav"
+		"wave"		"+player\vo\pirate\radiobotendclean05.wav"
 }
 
 "pirate.radiobotendclean06"
@@ -1716,7 +1716,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotendclean06.wav"
+		"wave"		"+player\vo\pirate\radiobotendclean06.wav"
 }
 
 "pirate.radiobotendsolid01"
@@ -1724,7 +1724,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotendsolid01.wav"
+		"wave"		"+player\vo\pirate\radiobotendsolid01.wav"
 }
 
 "pirate.radiobotendsolid02"
@@ -1732,7 +1732,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotendsolid02.wav"
+		"wave"		"+player\vo\pirate\radiobotendsolid02.wav"
 }
 
 "pirate.radiobotendsolid03"
@@ -1740,7 +1740,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotendsolid03.wav"
+		"wave"		"+player\vo\pirate\radiobotendsolid03.wav"
 }
 
 "pirate.radiobotendsolid04"
@@ -1748,7 +1748,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotendsolid04.wav"
+		"wave"		"+player\vo\pirate\radiobotendsolid04.wav"
 }
 
 "pirate.radiobotendsolid05"
@@ -1756,7 +1756,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotendsolid05.wav"
+		"wave"		"+player\vo\pirate\radiobotendsolid05.wav"
 }
 
 "pirate.radiobotfallback01"
@@ -1764,7 +1764,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotfallback01.wav"
+		"wave"		"+player\vo\pirate\radiobotfallback01.wav"
 }
 
 "pirate.radiobotfallback02"
@@ -1772,7 +1772,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotfallback02.wav"
+		"wave"		"+player\vo\pirate\radiobotfallback02.wav"
 }
 
 "pirate.radiobotfallback04"
@@ -1780,7 +1780,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotfallback04.wav"
+		"wave"		"+player\vo\pirate\radiobotfallback04.wav"
 }
 
 "pirate.radiobothold01"
@@ -1788,7 +1788,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobothold01.wav"
+		"wave"		"+player\vo\pirate\radiobothold01.wav"
 }
 
 "pirate.radiobothold02"
@@ -1796,7 +1796,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobothold02.wav"
+		"wave"		"+player\vo\pirate\radiobothold02.wav"
 }
 
 "pirate.radiobothold03"
@@ -1804,7 +1804,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobothold03.wav"
+		"wave"		"+player\vo\pirate\radiobothold03.wav"
 }
 
 "pirate.radiobotregroup01"
@@ -1812,7 +1812,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotregroup01.wav"
+		"wave"		"+player\vo\pirate\radiobotregroup01.wav"
 }
 
 "pirate.radiobotregroup02"
@@ -1820,7 +1820,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotregroup02.wav"
+		"wave"		"+player\vo\pirate\radiobotregroup02.wav"
 }
 
 "pirate.radiobotregroup03"
@@ -1828,7 +1828,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotregroup03.wav"
+		"wave"		"+player\vo\pirate\radiobotregroup03.wav"
 }
 
 "pirate.radiobotwait01"
@@ -1836,7 +1836,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\radiobotwait01.wav"
+		"wave"		"+player\vo\pirate\radiobotwait01.wav"
 }
 
 "pirate.reportingin01"
@@ -1844,7 +1844,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\reportingin01.wav"
+		"wave"		"+player\vo\pirate\reportingin01.wav"
 }
 
 "pirate.reportingin02"
@@ -1852,7 +1852,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\reportingin02.wav"
+		"wave"		"+player\vo\pirate\reportingin02.wav"
 }
 
 "pirate.reportingin03"
@@ -1860,7 +1860,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\reportingin03.wav"
+		"wave"		"+player\vo\pirate\reportingin03.wav"
 }
 
 "pirate.reportingin04"
@@ -1868,7 +1868,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\reportingin04.wav"
+		"wave"		"+player\vo\pirate\reportingin04.wav"
 }
 
 "pirate.requestreport01"
@@ -1876,7 +1876,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\requestreport01.wav"
+		"wave"		"+player\vo\pirate\requestreport01.wav"
 }
 
 "pirate.requestreport02"
@@ -1884,7 +1884,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\requestreport02.wav"
+		"wave"		"+player\vo\pirate\requestreport02.wav"
 }
 
 "pirate.requestreport03"
@@ -1892,7 +1892,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\requestreport03.wav"
+		"wave"		"+player\vo\pirate\requestreport03.wav"
 }
 
 "pirate.requestreport04"
@@ -1900,7 +1900,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\requestreport04.wav"
+		"wave"		"+player\vo\pirate\requestreport04.wav"
 }
 
 "pirate.scaredemote01"
@@ -1908,7 +1908,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\scaredemote01.wav"
+		"wave"		"+player\vo\pirate\scaredemote01.wav"
 }
 
 "pirate.scaredemote02"
@@ -1916,7 +1916,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\scaredemote02.wav"
+		"wave"		"+player\vo\pirate\scaredemote02.wav"
 }
 
 "pirate.scaredemote03"
@@ -1924,7 +1924,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\scaredemote03.wav"
+		"wave"		"+player\vo\pirate\scaredemote03.wav"
 }
 
 "pirate.scaredemote04"
@@ -1932,7 +1932,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\scaredemote04.wav"
+		"wave"		"+player\vo\pirate\scaredemote04.wav"
 }
 
 "pirate.scaredemote05"
@@ -1940,7 +1940,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\scaredemote05.wav"
+		"wave"		"+player\vo\pirate\scaredemote05.wav"
 }
 
 "pirate.sniperkilled01"
@@ -1948,7 +1948,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\sniperkilled01.wav"
+		"wave"		"+player\vo\pirate\sniperkilled01.wav"
 }
 
 "pirate.sniperkilled02"
@@ -1956,7 +1956,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\sniperkilled02.wav"
+		"wave"		"+player\vo\pirate\sniperkilled02.wav"
 }
 
 "pirate.sniperwarning01"
@@ -1964,7 +1964,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\sniperwarning01.wav"
+		"wave"		"+player\vo\pirate\sniperwarning01.wav"
 }
 
 "pirate.sniperwarning02"
@@ -1972,7 +1972,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\sniperwarning02.wav"
+		"wave"		"+player\vo\pirate\sniperwarning02.wav"
 }
 
 "pirate.sniperwarning03"
@@ -1980,7 +1980,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\sniperwarning03.wav"
+		"wave"		"+player\vo\pirate\sniperwarning03.wav"
 }
 
 "pirate.sniperwarning04"
@@ -1988,7 +1988,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\sniperwarning04.wav"
+		"wave"		"+player\vo\pirate\sniperwarning04.wav"
 }
 
 "pirate.spottedloosebomb01"
@@ -1996,7 +1996,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\spottedloosebomb01.wav"
+		"wave"		"+player\vo\pirate\spottedloosebomb01.wav"
 }
 
 "pirate.spottedloosebomb02"
@@ -2004,7 +2004,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\spottedloosebomb02.wav"
+		"wave"		"+player\vo\pirate\spottedloosebomb02.wav"
 }
 
 "pirate.spottedloosebomb03"
@@ -2012,7 +2012,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\spottedloosebomb03.wav"
+		"wave"		"+player\vo\pirate\spottedloosebomb03.wav"
 }
 
 "pirate.spottedloosebomb04"
@@ -2020,7 +2020,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\spottedloosebomb04.wav"
+		"wave"		"+player\vo\pirate\spottedloosebomb04.wav"
 }
 
 "pirate.spottedloosebomb05"
@@ -2028,7 +2028,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\spottedloosebomb05.wav"
+		"wave"		"+player\vo\pirate\spottedloosebomb05.wav"
 }
 
 "pirate.spottedloosebomb06"
@@ -2036,7 +2036,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\spottedloosebomb06.wav"
+		"wave"		"+player\vo\pirate\spottedloosebomb06.wav"
 }
 
 "pirate.spottedloosebomb07"
@@ -2044,7 +2044,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\spottedloosebomb07.wav"
+		"wave"		"+player\vo\pirate\spottedloosebomb07.wav"
 }
 
 "pirate.spottedloosebomb08"
@@ -2052,7 +2052,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\spottedloosebomb08.wav"
+		"wave"		"+player\vo\pirate\spottedloosebomb08.wav"
 }
 
 "pirate.t_death01"
@@ -2060,7 +2060,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_death01.wav"
+		"wave"		"+player\vo\pirate\t_death01.wav"
 }
 
 "pirate.t_death02"
@@ -2068,7 +2068,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_death02.wav"
+		"wave"		"+player\vo\pirate\t_death02.wav"
 }
 
 "pirate.t_death03"
@@ -2076,7 +2076,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_death03.wav"
+		"wave"		"+player\vo\pirate\t_death03.wav"
 }
 
 "pirate.t_death04"
@@ -2084,7 +2084,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_death04.wav"
+		"wave"		"+player\vo\pirate\t_death04.wav"
 }
 
 "pirate.t_decoy01"
@@ -2092,7 +2092,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_decoy01.wav"
+		"wave"		"+player\vo\pirate\t_decoy01.wav"
 }
 
 "pirate.t_decoy02"
@@ -2100,7 +2100,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_decoy02.wav"
+		"wave"		"+player\vo\pirate\t_decoy02.wav"
 }
 
 "pirate.t_decoy03"
@@ -2108,7 +2108,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_decoy03.wav"
+		"wave"		"+player\vo\pirate\t_decoy03.wav"
 }
 
 "pirate.t_decoy04"
@@ -2116,7 +2116,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_decoy04.wav"
+		"wave"		"+player\vo\pirate\t_decoy04.wav"
 }
 
 "pirate.t_flashbang01"
@@ -2124,7 +2124,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_flashbang01.wav"
+		"wave"		"+player\vo\pirate\t_flashbang01.wav"
 }
 
 "pirate.t_flashbang02"
@@ -2132,7 +2132,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_flashbang02.wav"
+		"wave"		"+player\vo\pirate\t_flashbang02.wav"
 }
 
 "pirate.t_flashbang03"
@@ -2140,7 +2140,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_flashbang03.wav"
+		"wave"		"+player\vo\pirate\t_flashbang03.wav"
 }
 
 "pirate.t_grenade01"
@@ -2148,7 +2148,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_grenade01.wav"
+		"wave"		"+player\vo\pirate\t_grenade01.wav"
 }
 
 "pirate.t_grenade02"
@@ -2156,7 +2156,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_grenade02.wav"
+		"wave"		"+player\vo\pirate\t_grenade02.wav"
 }
 
 "pirate.t_grenade04"
@@ -2164,7 +2164,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_grenade04.wav"
+		"wave"		"+player\vo\pirate\t_grenade04.wav"
 }
 
 "pirate.t_grenade05"
@@ -2172,7 +2172,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_grenade05.wav"
+		"wave"		"+player\vo\pirate\t_grenade05.wav"
 }
 
 "pirate.t_molotov01"
@@ -2180,7 +2180,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_molotov01.wav"
+		"wave"		"+player\vo\pirate\t_molotov01.wav"
 }
 
 "pirate.t_molotov02"
@@ -2188,7 +2188,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_molotov02.wav"
+		"wave"		"+player\vo\pirate\t_molotov02.wav"
 }
 
 "pirate.t_molotov03"
@@ -2196,7 +2196,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_molotov03.wav"
+		"wave"		"+player\vo\pirate\t_molotov03.wav"
 }
 
 "pirate.t_molotov06"
@@ -2204,7 +2204,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_molotov06.wav"
+		"wave"		"+player\vo\pirate\t_molotov06.wav"
 }
 
 "pirate.t_smoke01"
@@ -2212,7 +2212,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_smoke01.wav"
+		"wave"		"+player\vo\pirate\t_smoke01.wav"
 }
 
 "pirate.t_smoke02"
@@ -2220,7 +2220,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\t_smoke02.wav"
+		"wave"		"+player\vo\pirate\t_smoke02.wav"
 }
 
 "pirate.thanks01"
@@ -2228,7 +2228,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\thanks01.wav"
+		"wave"		"+player\vo\pirate\thanks01.wav"
 }
 
 "pirate.thanks04"
@@ -2236,7 +2236,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\thanks04.wav"
+		"wave"		"+player\vo\pirate\thanks04.wav"
 }
 
 "pirate.thanks05"
@@ -2244,7 +2244,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\thanks05.wav"
+		"wave"		"+player\vo\pirate\thanks05.wav"
 }
 
 "pirate.threeenemiesleft01"
@@ -2252,7 +2252,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\threeenemiesleft01.wav"
+		"wave"		"+player\vo\pirate\threeenemiesleft01.wav"
 }
 
 "pirate.threeenemiesleft02"
@@ -2260,7 +2260,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\threeenemiesleft02.wav"
+		"wave"		"+player\vo\pirate\threeenemiesleft02.wav"
 }
 
 "pirate.threeenemiesleft05"
@@ -2268,7 +2268,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\threeenemiesleft05.wav"
+		"wave"		"+player\vo\pirate\threeenemiesleft05.wav"
 }
 
 "pirate.tmap_cs_source01"
@@ -2276,7 +2276,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source01.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source01.wav"
 }
 
 "pirate.tmap_cs_source02"
@@ -2284,7 +2284,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source02.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source02.wav"
 }
 
 "pirate.tmap_cs_source03"
@@ -2292,7 +2292,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source03.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source03.wav"
 }
 
 "pirate.tmap_cs_source04"
@@ -2300,7 +2300,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source04.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source04.wav"
 }
 
 "pirate.tmap_cs_source05"
@@ -2308,7 +2308,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source05.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source05.wav"
 }
 
 "pirate.tmap_cs_source06"
@@ -2316,7 +2316,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source06.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source06.wav"
 }
 
 "pirate.tmap_cs_source07"
@@ -2324,7 +2324,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source07.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source07.wav"
 }
 
 "pirate.tmap_cs_source08"
@@ -2332,7 +2332,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source08.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source08.wav"
 }
 
 "pirate.tmap_cs_source09"
@@ -2340,7 +2340,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source09.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source09.wav"
 }
 
 "pirate.tmap_cs_source10"
@@ -2348,7 +2348,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source10.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source10.wav"
 }
 
 "pirate.tmap_cs_source11"
@@ -2356,7 +2356,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source11.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source11.wav"
 }
 
 "pirate.tmap_cs_source12"
@@ -2364,7 +2364,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source12.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source12.wav"
 }
 
 "pirate.tmap_cs_source13"
@@ -2372,7 +2372,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source13.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source13.wav"
 }
 
 "pirate.tmap_cs_source14"
@@ -2380,7 +2380,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source14.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source14.wav"
 }
 
 "pirate.tmap_cs_source15"
@@ -2388,7 +2388,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source15.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source15.wav"
 }
 
 "pirate.tmap_cs_source16"
@@ -2396,7 +2396,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source16.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source16.wav"
 }
 
 "pirate.tmap_cs_source17"
@@ -2404,7 +2404,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source17.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source17.wav"
 }
 
 "pirate.tmap_cs_source18"
@@ -2412,7 +2412,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source18.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source18.wav"
 }
 
 "pirate.tmap_cs_source19"
@@ -2420,7 +2420,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source19.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source19.wav"
 }
 
 "pirate.tmap_cs_source20"
@@ -2428,7 +2428,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source20.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source20.wav"
 }
 
 "pirate.tmap_cs_source21"
@@ -2436,7 +2436,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source21.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source21.wav"
 }
 
 "pirate.tmap_cs_source22"
@@ -2444,7 +2444,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source22.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source22.wav"
 }
 
 "pirate.tmap_cs_source23"
@@ -2452,7 +2452,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source23.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source23.wav"
 }
 
 "pirate.tmap_cs_source24"
@@ -2460,7 +2460,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source24.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source24.wav"
 }
 
 "pirate.tmap_cs_source25"
@@ -2468,7 +2468,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source25.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source25.wav"
 }
 
 "pirate.tmap_cs_source26"
@@ -2476,7 +2476,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source26.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source26.wav"
 }
 
 "pirate.tmap_cs_source27"
@@ -2484,7 +2484,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source27.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source27.wav"
 }
 
 "pirate.tmap_cs_source28"
@@ -2492,7 +2492,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source28.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source28.wav"
 }
 
 "pirate.tmap_cs_source29"
@@ -2500,7 +2500,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source29.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source29.wav"
 }
 
 "pirate.tmap_cs_source30"
@@ -2508,7 +2508,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source30.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source30.wav"
 }
 
 "pirate.tmap_cs_source31"
@@ -2516,7 +2516,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source31.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source31.wav"
 }
 
 "pirate.tmap_cs_source32"
@@ -2524,7 +2524,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source32.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source32.wav"
 }
 
 "pirate.tmap_cs_source33"
@@ -2532,7 +2532,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source33.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source33.wav"
 }
 
 "pirate.tmap_cs_source34"
@@ -2540,7 +2540,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source34.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source34.wav"
 }
 
 "pirate.tmap_cs_source35"
@@ -2548,7 +2548,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source35.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source35.wav"
 }
 
 "pirate.tmap_cs_source36"
@@ -2556,7 +2556,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source36.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source36.wav"
 }
 
 "pirate.tmap_cs_source37"
@@ -2564,7 +2564,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source37.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source37.wav"
 }
 
 "pirate.tmap_cs_source38"
@@ -2572,7 +2572,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source38.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source38.wav"
 }
 
 "pirate.tmap_cs_source39"
@@ -2580,7 +2580,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source39.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source39.wav"
 }
 
 "pirate.tmap_cs_source40"
@@ -2588,7 +2588,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source40.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source40.wav"
 }
 
 "pirate.tmap_cs_source41"
@@ -2596,7 +2596,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source41.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source41.wav"
 }
 
 "pirate.tmap_cs_source42"
@@ -2604,7 +2604,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source42.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source42.wav"
 }
 
 "pirate.tmap_cs_source43"
@@ -2612,7 +2612,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source43.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source43.wav"
 }
 
 "pirate.tmap_cs_source44"
@@ -2620,7 +2620,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source44.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source44.wav"
 }
 
 "pirate.tmap_cs_source45"
@@ -2628,7 +2628,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source45.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source45.wav"
 }
 
 "pirate.tmap_cs_source46"
@@ -2636,7 +2636,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source46.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source46.wav"
 }
 
 "pirate.tmap_cs_source47"
@@ -2644,7 +2644,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source47.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source47.wav"
 }
 
 "pirate.tmap_cs_source48"
@@ -2652,7 +2652,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source48.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source48.wav"
 }
 
 "pirate.tmap_cs_source49"
@@ -2660,7 +2660,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source49.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source49.wav"
 }
 
 "pirate.tmap_cs_source50"
@@ -2668,7 +2668,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source50.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source50.wav"
 }
 
 "pirate.tmap_cs_source51"
@@ -2676,7 +2676,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source51.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source51.wav"
 }
 
 "pirate.tmap_cs_source52"
@@ -2684,7 +2684,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source52.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source52.wav"
 }
 
 "pirate.tmap_cs_source53"
@@ -2692,7 +2692,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source53.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source53.wav"
 }
 
 "pirate.tmap_cs_source54"
@@ -2700,7 +2700,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source54.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source54.wav"
 }
 
 "pirate.tmap_cs_source55"
@@ -2708,7 +2708,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source55.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source55.wav"
 }
 
 "pirate.tmap_cs_source56"
@@ -2716,7 +2716,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source56.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source56.wav"
 }
 
 "pirate.tmap_cs_source57"
@@ -2724,7 +2724,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source57.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source57.wav"
 }
 
 "pirate.tmap_cs_source58"
@@ -2732,7 +2732,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source58.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source58.wav"
 }
 
 "pirate.tmap_cs_source59"
@@ -2740,7 +2740,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source59.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source59.wav"
 }
 
 "pirate.tmap_cs_source60"
@@ -2748,7 +2748,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source60.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source60.wav"
 }
 
 "pirate.tmap_cs_source61"
@@ -2756,7 +2756,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source61.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source61.wav"
 }
 
 "pirate.tmap_cs_source62"
@@ -2764,7 +2764,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\tmap_cs_source62.wav"
+		"wave"		"+player\vo\pirate\tmap_cs_source62.wav"
 }
 
 "pirate.twoenemiesleft01"
@@ -2772,7 +2772,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\twoenemiesleft01.wav"
+		"wave"		"+player\vo\pirate\twoenemiesleft01.wav"
 }
 
 "pirate.twoenemiesleft02"
@@ -2780,7 +2780,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\twoenemiesleft02.wav"
+		"wave"		"+player\vo\pirate\twoenemiesleft02.wav"
 }
 
 "pirate.twoenemiesleft03"
@@ -2788,7 +2788,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\twoenemiesleft03.wav"
+		"wave"		"+player\vo\pirate\twoenemiesleft03.wav"
 }
 
 "pirate.twoenemiesleft04"
@@ -2796,7 +2796,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\twoenemiesleft04.wav"
+		"wave"		"+player\vo\pirate\twoenemiesleft04.wav"
 }
 
 "pirate.twoenemiesleft05"
@@ -2804,7 +2804,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\twoenemiesleft05.wav"
+		"wave"		"+player\vo\pirate\twoenemiesleft05.wav"
 }
 
 "pirate.waitinghere01"
@@ -2812,7 +2812,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\waitinghere01.wav"
+		"wave"		"+player\vo\pirate\waitinghere01.wav"
 }
 
 "pirate.waitinghere02"
@@ -2820,7 +2820,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\waitinghere02.wav"
+		"wave"		"+player\vo\pirate\waitinghere02.wav"
 }
 
 "pirate.waitinghere03"
@@ -2828,7 +2828,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\waitinghere03.wav"
+		"wave"		"+player\vo\pirate\waitinghere03.wav"
 }
 
 "pirate.waitinghere04"
@@ -2836,7 +2836,7 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\waitinghere04.wav"
+		"wave"		"+player\vo\pirate\waitinghere04.wav"
 }
 
 "pirate.waitinghere05"
@@ -2844,6 +2844,6 @@
 		"channel"		"CHAN_VOICE"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"player\vo\pirate\waitinghere05.wav"
+		"wave"		"+player\vo\pirate\waitinghere05.wav"
 }
 
