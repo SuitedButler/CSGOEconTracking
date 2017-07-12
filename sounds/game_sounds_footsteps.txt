@@ -35,6 +35,7 @@
 //Weapon
 //Foliage
 //Carpet
+// SLIME
 
 //***********
 //Suit Sounds
@@ -42,19 +43,14 @@
 
 "CT_Default.Suit"
 {
-	"pitch"			"90"
-
+	"pitch"	"90,  100"
+	"volume"	"0.01, 0.05"
 	"rndwave"
 	{
-		"wave"		"~player/footsteps/new/suit_ct_01.wav"
-		"wave"		"~player/footsteps/new/suit_ct_02.wav"
 		"wave"		"~player/footsteps/new/suit_ct_03.wav"
-		"wave"		"~player/footsteps/new/suit_ct_04.wav"
-		"wave"		"~player/footsteps/new/suit_ct_05.wav"
 		"wave"		"~player/footsteps/new/suit_ct_06.wav"
 		"wave"		"~player/footsteps/new/suit_ct_07.wav"
 		"wave"		"~player/footsteps/new/suit_ct_08.wav"
-		"wave"		"~player/footsteps/new/suit_ct_09.wav"
 		"wave"		"~player/footsteps/new/suit_ct_11.wav"
 
 	}
@@ -70,11 +66,6 @@
 		{
 			"import_stack" "CS_update_suit"
 			 // multiply all volume adjustments together
-			
-			"volume_accumulate"
-			{
-				"input1" "0.7"
-			}
 			
 			"block_entries"
 			{
@@ -92,7 +83,7 @@
 			"volume_falloff"
 			{
 				"input_min" "120.0"	
-				"input_max" "900.0"
+				"input_max" "1200.0"
 			}
 		}
 	}
@@ -100,8 +91,8 @@
 
 "T_Default.Suit"
 {
-	"pitch"			"110"
-
+	"pitch"			"100"
+	"volume"	"0.01, 0.05"
 	"rndwave"
 	{
 		"wave"		"~player/footsteps/new/suit_t_01.wav"
@@ -130,10 +121,6 @@
 		{
 			"import_stack" "CS_update_suit"
 			
-			"volume_accumulate"
-			{
-				"input1" "0.7"
-			}
 			"block_entries"
 			{
 				"operator" "sys_block_entries"
@@ -150,7 +137,7 @@
 			"volume_falloff"
 			{
 				"input_min" "120.0"	
-				"input_max" "900.0"
+				"input_max" "1200.0"
 			}
 		
 		}
@@ -3730,7 +3717,7 @@
 //PLASTIC BARREL
 //***********
 
-"CT_PlasticBarrel.StepLeft"
+"CT_Plastic_Barrel.StepLeft"
 {
 	"channel"       "CHAN_BODY"
 
@@ -3758,7 +3745,7 @@
 	}
 }
 
-"CT_PlasticBarrel.StepRight"
+"CT_Plastic_Barrel.StepRight"
 {
 	"channel"       "CHAN_BODY"
 
@@ -3786,7 +3773,7 @@
 	}
 }
 
-"T_PlasticBarrel.StepLeft"
+"T_Plastic_Barrel.StepLeft"
 {
 	"channel"       "CHAN_BODY"
 
@@ -3814,7 +3801,7 @@
 	}
 }
 
-"T_PlasticBarrel.StepRight"
+"T_Plastic_Barrel.StepRight"
 {
 	"channel"       "CHAN_BODY"
 
@@ -4996,23 +4983,19 @@
 
 "Heavy.Step"
 {
-	"channel"       "CHAN_BODY"
+	"channel"       "CHAN_STATIC"
 
 	"soundlevel"  		"SNDLVL_90dB"
-	"volume"			"1.0"
-	"pitch"			"92,97"
+	"volume"			"0.7, 0.9"
+	"pitch"			"99, 101"
 	"rndwave"
 	{
 		"wave"		"~player/footsteps/new/bass_01.wav"
 		"wave"		"~player/footsteps/new/bass_02.wav"
 		"wave"		"~player/footsteps/new/bass_03.wav"
-		"wave"		"~player/footsteps/new/bass_04.wav"
 		"wave"		"~player/footsteps/new/bass_05.wav"
 		"wave"		"~player/footsteps/new/bass_06.wav"
-		"wave"		"~player/footsteps/new/bass_07.wav"
 		"wave"		"~player/footsteps/new/bass_08.wav"
-		"wave"		"~player/footsteps/new/bass_09.wav"
-		"wave"		"~player/footsteps/new/bass_10.wav"
 	}
 	"soundentry_version" "2"	
 	"operator_stacks"
@@ -5028,7 +5011,7 @@
 			"import_stack" "CS_update_footsteps"
 			"volume_accumulate"
 			{
-				"input1" "0.8"
+				"input1" "1.0"
 			}
 			"block_entries"
 			{
@@ -5048,6 +5031,122 @@
 				//"input_min" "0.5" 
 				//"input_max" "1.0"		
 			//}
+		}
+	}
+}
+
+"T_SlipperySlime.StepLeft"
+{
+	"channel"       "CHAN_BODY"
+
+	"soundlevel"  		"SNDLVL_90dB"
+	"volume"		"0.6"
+	"pitch"			"90,105"
+	"rndwave"
+	{
+		"wave"		"player/footsteps/mud1.wav"
+		"wave"		"player/footsteps/mud3.wav"
+		"wave"		"player/footsteps/mud5.wav"
+	}
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"start_stack"
+		{
+			
+			"import_stack" "CS_limit_footsteps_start"
+		}
+
+		"update_stack"
+		{
+			"import_stack" "CS_update_footsteps"
+		}
+	}
+}
+
+"T_SlipperySlime.StepRight"
+{
+	"channel"       "CHAN_BODY"
+
+	"soundlevel"  		"SNDLVL_90dB"
+	"volume"		"0.6"
+	"pitch"			"90,105"
+	"rndwave"
+	{
+		"wave"		"player/footsteps/mud2.wav"
+		"wave"		"player/footsteps/mud4.wav"
+		"wave"		"player/footsteps/mud6.wav"
+	}
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"start_stack"
+		{
+			
+			"import_stack" "CS_limit_footsteps_start"
+		}
+
+		"update_stack"
+		{
+			"import_stack" "CS_update_footsteps"
+		}
+	}
+}
+
+"CT_SlipperySlime.StepLeft"
+{
+	"channel"       "CHAN_BODY"
+
+	"soundlevel"  		"SNDLVL_90dB"
+	"volume"		"0.6"
+	"pitch"			"90,105"
+	"rndwave"
+	{
+		"wave"		"player/footsteps/mud1.wav"
+		"wave"		"player/footsteps/mud3.wav"
+		"wave"		"player/footsteps/mud5.wav"
+	}
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"start_stack"
+		{
+			
+			"import_stack" "CS_limit_footsteps_start"
+		}
+
+		"update_stack"
+		{
+			"import_stack" "CS_update_footsteps"
+		}
+	}
+}
+
+"CT_SlipperySlime.StepRight"
+{
+	"channel"       "CHAN_BODY"
+
+	"soundlevel"  		"SNDLVL_90dB"
+	"volume"		"0.6"
+	"pitch"			"90,105"
+	"rndwave"
+	{
+		"wave"		"player/footsteps/mud2.wav"
+		"wave"		"player/footsteps/mud4.wav"
+		"wave"		"player/footsteps/mud6.wav"
+	}
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"start_stack"
+		{
+			
+			"import_stack" "CS_limit_footsteps_start"
+		}
+
+		"update_stack"
+		{
+			"import_stack" "CS_update_footsteps"
 		}
 	}
 }
